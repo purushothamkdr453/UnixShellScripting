@@ -1,0 +1,6 @@
+Some new lines added
+<project name="MyFirstProject" >
+	<target name="creatingJAR" >
+	<jar destfile="DemoJar/jar/demo.jar" basedir="DemoJar/classes/"/>
+		</target>
+</project>
